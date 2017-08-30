@@ -1,6 +1,11 @@
-# translatevue
+# Translator Vue.js
+![screentranslate](https://user-images.githubusercontent.com/13301795/29872125-8db76514-8d8e-11e7-8a06-017ca391b424.jpg)
 
-> translator application
+
+Vue.js application that uses the Yandex API
+
+### Version
+1.0.0
 
 ## Build Setup
 
